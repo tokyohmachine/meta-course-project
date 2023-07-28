@@ -1,5 +1,5 @@
 # Meta assignment project
 
-## Preview
+## Preview Hair Day Page
 
-Hair Day: ![Page](https://github.com/tokyohmachine/meta-course-project/blob/main/Screenshot-page.png)
+![Page](https://github.com/tokyohmachine/meta-course-project/blob/main/Screenshot-page.png)
